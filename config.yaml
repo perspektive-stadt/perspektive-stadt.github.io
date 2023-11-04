@@ -73,7 +73,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Perspektive Stadt"
-    Content: Willkommen auf der Homepag der `Perspektive Stadt`-Kampagne. Mehr Informationen folgen bald.
+    Content: Willkommen auf der Homepage der `Perspektive Stadt`-Kampagne. Mehr Informationen folgen bald.
 
   socialIcons:
     - name: instagram
